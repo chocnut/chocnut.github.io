@@ -4,16 +4,18 @@ on:
   push:
     branches: [main]
 
+# Add permissions so GitHub Actions can push to your repo
+permissions:
+  contents: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
-
-        # This ensures submodules are also cloned if you use one for your Hugo theme.
         with:
-          submodules: true
+          submodules: true # If your theme is a Git submodule, this ensures it's cloned too
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
