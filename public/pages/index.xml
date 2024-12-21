@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Peter Indiola</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>https://peterindiola.com/pages/</link>
     <description>Recent content in Pages on Peter Indiola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://peterindiola.com/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <link>https://peterindiola.com/pages/about/</link>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>https://peterindiola.com/pages/about/</guid>
       
       <description></description>
       
