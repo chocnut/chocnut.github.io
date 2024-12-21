@@ -4,36 +4,34 @@ title = '2024 Year End Retro'
 toc = false
 +++
 
-As the year wraps up, I’ve been thinking about everything that’s happened. The highs, the lows, and the lessons I’ve learned. Things didn’t always go as planned, but the unexpected twists helped me grow in ways I didn’t see coming. They’ve also set the stage for what’s to come in the new year.
+As the year ends, I’ve been thinking about everything that’s happened—the good, the bad, and what I’ve learned. Things didn’t always go the way I wanted, but the surprises helped me grow in ways I didn’t expect. They’ve also set me up for what’s next.
 
-# Overcoming obstacles, staying strong, and finding hope
+# Dealing with challenges and finding hope
 
-Moving my kids back to the Philippines was tough. I realised that things weren’t going smoothly, and bringing them home again wasn’t what I’d envisioned. But it was the right call for our family. It reminded me that life can be random and weird sometimes—that's the way it is.
+Moving my kids back to the Philippines was tough. Things weren’t working out as planned, and bringing them back home wasn’t what I had in mind. But it was the right choice for our family. It showed me that life can be unpredictable, and you just have to roll with it.
 
-I learned a lot about adapting, staying resilient, and holding onto hope during those ups and downs. It wasn’t what I had in mind, but it taught me that every setback can lead to something better.
+I learned how to adjust, stay strong, and keep hoping for better days. It didn’t turn out the way I wanted, but it taught me that setbacks can lead to something good.
 
-We also visited Japan, and it opened my mind to the idea of moving there. It’s definitely not happening soon, but it’s the best country I’ve visited so far. It felt like I was in a different world - I’m not sure why, to be honest.
+We also visited Japan, and it got me thinking about maybe living there someday. It’s not happening anytime soon, but it’s the best place I’ve visited so far. It felt like a completely different experience, though I can’t quite explain why.
 
-# A major bucket list achievement
+# Checking off a big goal
 
-I’d promised myself I’d run a marathon before I turned 40, and this year, I finally did it. But it’s not just about ticking a box. After my annual check-up, I found out that my heart’s not in shape, and that scares me.
+I’ve always wanted to run a marathon before I turned 40, and this year, I did it. But it wasn’t just about hitting that goal. After a health check showed my heart wasn’t in great shape, I was scared and knew I needed to do something about it.
 
-I started with a coach app doing short runs in March and gradually increased my distance. Soon, I was completing 10Ks, half marathons, and eventually, a full marathon. It wasn’t about finishing; it was about proving I could push through and stick to a plan. Running became a way to take control, clear my anxieties, celebrate life, and tap into an endurance I didn’t know I had.
+I started with short runs in March using a coaching app and slowly built up to running 10Ks, half marathons, and finally a full marathon. It wasn’t just about finishing; it was about proving to myself that I could stick with something and push through challenges. Running helped me clear my mind, deal with stress, and anxiety.
 
-# Exploring New Tech and Embracing the Future
+# Trying new tech and looking ahead
 
-This year, I dove deeper into new technologies. I got hands-on with Go and launched production apps. That experience taught me to consider ditching JavaScript and trying something new. It’s not the only way to solve real-world software problems.
+This year, I spent more time learning new technologies. I worked with Go and even launched apps with it, which made me think about moving away from JavaScript and trying different ways to solve problems. I also got better with Terraform and AWS, using them to manage complex systems.
 
-I also improved my skills in Terraform and AWS. I got better at using IaC to manage complex infrastructure. But what I find really exciting is the impact AI is having on the programming world. AI is no longer just a buzzword; it’s changing how we work and create. It's a way to tackle more bucket list goals. I wo the new year with hope, thanks, and excitement for what’s next.ant to seize new tech opportunities and build a brighter future for my family: a new tools that can help us code more intelligently, efficiently, and creatively.
+What’s really exciting is how AI is changing programming. It’s not just a buzzword anymore—it’s actually changing how we work. I want to keep learning about these tools and use them to make coding easier and more creative. I’m excited to see how this can help me and my family in the future.
 
-For me, AI represents an opportunity to explore uncharted territory in tech. It’s a thrilling time to be a programmer, and I’m eager to see where these new tools take us.
+# Looking forward
 
-# Looking forward to a new chapter
+Next year feels like it’s going to bring some big changes for me and my family. I’m not sure what’s coming, but I’m hopeful it will lead to something better.
 
-Next year is shaping up to be one of the biggest years of change for my family and me. I’m not sure what it will look like yet, but I’m sure it will lead us to something better and more fulfilling.
+# Feeling thankful
 
-# Grateful for the journey
+As I finish this year, I feel grateful. To my family, and friends thank you for your support. It means a lot.
 
-As I wrap up this year, I’m filled with gratitude. To my family, friends, and colleagues—thanks for being there and cheering me on. Your support means a lot.
-
-I’m heading into the new year with hope, thanks, and excitement for what’s next.
+I’m ready to start the new year with hope and excitement for what’s ahead.
