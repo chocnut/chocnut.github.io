@@ -4,6 +4,8 @@ title = "Peter Indiola"
 theme = "hugo-blog-awesome"
 enableEmoji = true
 
+googleAnalytics = "G-CJLQ8M3ZN1"
+
 [markup]
   [markup.highlight]
     anchorLineNos = false
