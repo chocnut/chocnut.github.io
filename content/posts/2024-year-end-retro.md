@@ -1,6 +1,7 @@
 +++
 date = '2024-12-21T11:58:38+08:00'
 title = '2024 Year End Retro'
+toc = false
 +++
 
 As the year wraps up, I’ve been thinking about everything that’s happened. The highs, the lows, and the lessons I’ve learned. Things didn’t always go as planned, but the unexpected twists helped me grow in ways I didn’t see coming. They’ve also set the stage for what’s to come in the new year.
