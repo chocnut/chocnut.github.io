@@ -1,24 +1,70 @@
-baseURL = 'https://peterindiola.com/'
-languageCode = 'en-us'
-title = 'Peter Indiola'
+baseURL = "https://peterindiola.com/"
+languageCode = "en-us"
+title = "Peter Indiola"
 theme = "hugo-blog-awesome"
-
-# Enable emojis globally
 enableEmoji = true
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    hl_inline = false
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = "hrdark"
+    tabWidth = 4
+
+  [markup.goldmark.renderer]
+    unsafe = true
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = true
 
 [menus]
   [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
+    name = "Home"
+    pageRef = "/"
     url = "/"
     weight = 10
+
   [[menus.main]]
-    name = 'Posts'
-    pageRef = 'posts'
-    url = '/posts/'
+    name = "Posts"
+    pageRef = "posts"
+    url = "/posts/"
     weight = 20
+
   [[menus.main]]
-    name = 'About'
-    pageRef = 'about'
-    url = '/about/'
+    name = "About"
+    pageRef = "about"
+    url = "/about/"
     weight = 30
+
+[params]
+  sitename = "Peter's Development Blog"
+
+  defaultColor = "auto"
+  description = "Peter's Development blog"
+  mainSections = ["posts"]
+  toc = true
+  goToTop = true
+  rssFeedDescription = "summary"
+
+  [params.author]
+    name = "Peter Indiola"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/chocnut"
+  
+  [[params.socialIcons]]
+    name = "Rss"
+    url = "index.xml"
+
