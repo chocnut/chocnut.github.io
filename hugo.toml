@@ -1,0 +1,24 @@
+baseURL = 'https://peterindiola.com/'
+languageCode = 'en-us'
+title = 'Peter Indiola'
+theme = "hugo-blog-awesome"
+
+# Enable emojis globally
+enableEmoji = true
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    url = "/"
+    weight = 10
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = 'posts'
+    url = '/posts/'
+    weight = 20
+  [[menus.main]]
+    name = 'About'
+    pageRef = 'about'
+    url = '/about/'
+    weight = 30
