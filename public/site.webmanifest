@@ -1,7 +1,7 @@
 {
-    "name": "Peter Indiola",
-    "short_name": "Peter Indiola",
-    "start_url": "https://peterindiola.com/",
+    "name": "Peter's Development Blog",
+    "short_name": "Peter's Development Blog",
+    "start_url": "http://localhost:1313/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
