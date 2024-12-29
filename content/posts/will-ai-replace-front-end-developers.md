@@ -1,7 +1,7 @@
 +++
 date = '2024-12-29T12:06:44+08:00'
 draft = false
-title = 'Will Ai Replace Front-End Developers?'
+title = 'Will AI Replace Front-End Developers?'
 toc = false
 +++
 
