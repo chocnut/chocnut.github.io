@@ -7,28 +7,28 @@ categories = ['personal']
 toc = false
 +++
 
-So here we are at the end of 2024 and honestly, what a year it's been. Not always in the way I expected, but life rarely goes according to plan anyway, right?
+2024 is almost over and wow, what a year. Definitely not what I expected when it started but then again, when does life ever go according to plan?
 
-The biggest thing that happened was moving my kids back to the Philippines. That was... tough. Things weren't working out the way we hoped and bringing them back home wasn't part of the original plan. But sometimes you just have to make the hard calls for your family, you know? It sucked at the time but looking back, it was the right choice.
+The hardest thing this year was having to move my kids back to the Philippines. That really sucked. We tried making things work here in Singapore but it just wasn't happening the way we hoped. Had to make the tough call to send them home. Still feels weird saying that but it was the right choice for everyone. Sometimes being a parent means making decisions that hurt but are necessary.
 
-I guess it taught me that I'm more adaptable than I thought. Life throws curveballs and you either learn to hit them or you strike out. I'm still learning to hit them.
+It taught me I can adapt better than I thought. I mean, I always knew life throws curveballs but actually dealing with them? Different story. I'm getting better at rolling with the punches.
 
-We also went to Japan this year which was incredible. Like, I can't even explain it properly but something about that place just clicked with me. Now I'm randomly thinking about maybe living there someday. Not anytime soon obviously, but it's sitting in the back of my mind now.
+We went to Japan earlier this year and man, that place is something else. Can't really put my finger on what it was but everything just felt right there. Now I catch myself randomly browsing job sites in Tokyo. Not planning anything serious but the thought keeps popping up. Maybe someday.
 
-Oh and I finally ran a marathon. I've been saying I wanted to do that before I turn 40 and well... I actually did it. The funny thing is it wasn't really about the goal anymore once I started training.
+Oh yeah, I finally ran a marathon. Been talking about doing that before I hit 40 for years. Funny thing is once I started training, it wasn't really about hitting that goal anymore.
 
-Earlier this year I had a health checkup and my heart wasn't looking great. That scared the hell out of me if I'm being honest. So I started running in March, just using some coaching app and doing short runs. Slowly worked my way up - 10Ks, half marathons, then the full thing.
+Had a health scare earlier in the year. Heart wasn't looking good on some tests and that freaked me out big time. Started running in March just to do something about it. Used some random coaching app, started with short runs. Worked my way up slowly through 10Ks, half marathons, then somehow ended up crossing the finish line of a full marathon.
 
-It wasn't just about finishing though. It was about proving to myself that I could stick with something when it got hard. Plus running became this weird therapy thing for me. Helped with stress and anxiety and all that.
+But it became more than just getting healthier. It was proving to myself I could stick with something difficult. Plus running turned into this weird form of therapy. Helped me deal with all the stress and anxiety from everything else going on.
 
-On the tech side, I spent a lot of time learning Go this year. Even shipped some apps with it which felt pretty good. Made me think about moving away from JavaScript for some projects and trying different approaches to solving problems.
+Tech wise, spent a lot of time with Go this year. Actually shipped some apps with it which felt good. Made me think about moving away from JavaScript for certain projects. Nice to try different approaches to solving problems.
 
-Also got deeper into Terraform and AWS. Managing infrastructure used to intimidate me but now it's kind of fun in a weird way.
+Also dove deeper into Terraform and AWS. Infrastructure stuff used to intimidate the hell out of me but now I actually enjoy it. Weird how that works.
 
-But the real game changer has been AI stuff. It's not just hype anymore, it's actually changing how I work day to day. I want to keep learning about these tools and figure out how to use them to make coding more creative and less tedious. Could be huge for me and my family down the road.
+The biggest change has been how much tooling has improved for developers. LLMs and various automation tools are actually useful now, not just hype. Really changing how I work day to day. Want to keep exploring this stuff and see how it can help me and my family long term.
 
-Next year feels like it's going to bring some big changes. I'm not exactly sure what yet but I have this feeling things are going to shift in a good way.
+Next year feels different somehow. Can't explain it but I have this feeling big changes are coming. Not sure what exactly but something good.
 
-Anyway, I'm grateful for this year. To my family and friends who put up with all my random decisions and stress - thank you. Seriously.
+Grateful for this year though. My family put up with all my random decisions and stress. My friends listened to me complain and worry about everything. Thank you for that.
 
-2025, here we come. Ready for whatever you throw at me.
+2025, let's see what you've got.
