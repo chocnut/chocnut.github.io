@@ -2,7 +2,7 @@
 date = '2025-06-13T10:27:10+08:00'
 draft = false
 title = 'Why Bother Learning to Code When AI Exists?'
-description = 'A Filipino developer\'s honest take on why I still learn SwiftUI and new programming languages despite AI tools. Personal thoughts on keeping coding passion alive in 2025.'
+description = "A Filipino developer's honest take on why I still learn SwiftUI and new programming languages despite AI tools. Personal thoughts on keeping coding passion alive in 2025."
 tags = ['programming', 'AI', 'SwiftUI', 'career', 'learning', 'motivation', 'developer-life', 'React-Native']
 categories = ['tech', 'personal']
 toc = false
