@@ -1,0 +1,9 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Local development
+.hugo_build.lock
+
+# Claude Code files
+CLAUDE.md

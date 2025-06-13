@@ -1,6 +1,6 @@
 baseURL = "https://peterindiola.com/"
 languageCode = "en-us"
-title = "Peter Indiola"
+title = "Peter Indiola - Filipino Software Developer & Tech Writer"
 theme = "hugo-blog-awesome"
 enableEmoji = true
 
@@ -53,7 +53,8 @@ googleAnalytics = "G-CJLQ8M3ZN1"
   sitename = "Peter's Development Blog"
 
   defaultColor = "auto"
-  description = "Peter's Development blog"
+  description = "Personal blog of Peter Indiola, a Filipino software developer with 16 years of experience. Thoughts on React Native, SwiftUI, AI, and developer life."
+  keywords = ["Peter Indiola", "Filipino developer", "React Native", "SwiftUI", "programming", "AI", "software development"]
   mainSections = ["posts"]
   toc = true
   goToTop = true
@@ -61,6 +62,8 @@ googleAnalytics = "G-CJLQ8M3ZN1"
 
   [params.author]
     name = "Peter Indiola"
+    bio = "Filipino software developer with 16 years of experience. Father of three, runner, and tech enthusiast."
+    location = "Singapore"
 
   [[params.socialIcons]]
     name = "github"
