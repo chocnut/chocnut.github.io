@@ -6,13 +6,12 @@ author: Peter Indiola
 toc: false
 ---
 
-## About Me
-
 Hi, I'm Peter! I'm a Filipino software developer with 16 years of experience building web and mobile applications. Throughout my career, I've worked with various technologies but currently focus on React Native for mobile development while exploring SwiftUI on the side.
 
 ## What I Do
 
 I specialize in frontend and mobile development, with experience in:
+
 - React Native and ReactJS
 - Mobile app development
 - Web development
@@ -28,4 +27,5 @@ I started this blog to share my thoughts on programming, the impact of AI on dev
 
 You can find me on [GitHub](https://github.com/chocnut) or follow my latest posts here on the blog.
 
-Based in the Philippines 🇵🇭
+Based in Singapore 🇸🇬
+
