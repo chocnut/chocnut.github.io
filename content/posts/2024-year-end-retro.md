@@ -1,37 +1,34 @@
 +++
 date = '2024-12-21T11:58:38+08:00'
 title = '2024 Year End Retro'
+description = "Looking back at 2024 - the ups, downs, and everything in between. Moving kids back to Philippines, running my first marathon, and learning new tech."
+tags = ['personal', 'reflection', '2024', 'marathon', 'family', 'tech', 'Go', 'AI']
+categories = ['personal']
 toc = false
 +++
 
-As the year ends, I’ve been thinking about everything that’s happened—the good, the bad, and what I’ve learned. Things didn’t always go the way I wanted, but the surprises helped me grow in ways I didn’t expect. They’ve also set me up for what’s next.
+So here we are at the end of 2024 and honestly, what a year it's been. Not always in the way I expected, but life rarely goes according to plan anyway, right?
 
-# Dealing with challenges and finding hope
+The biggest thing that happened was moving my kids back to the Philippines. That was... tough. Things weren't working out the way we hoped and bringing them back home wasn't part of the original plan. But sometimes you just have to make the hard calls for your family, you know? It sucked at the time but looking back, it was the right choice.
 
-Moving my kids back to the Philippines was tough. Things weren’t working out as planned, and bringing them back home wasn’t what I had in mind. But it was the right choice for our family. It showed me that life can be unpredictable, and you just have to roll with it.
+I guess it taught me that I'm more adaptable than I thought. Life throws curveballs and you either learn to hit them or you strike out. I'm still learning to hit them.
 
-I learned how to adjust, stay strong, and keep hoping for better days. It didn’t turn out the way I wanted, but it taught me that setbacks can lead to something good.
+We also went to Japan this year which was incredible. Like, I can't even explain it properly but something about that place just clicked with me. Now I'm randomly thinking about maybe living there someday. Not anytime soon obviously, but it's sitting in the back of my mind now.
 
-We also visited Japan, and it got me thinking about maybe living there someday. It’s not happening anytime soon, but it’s the best place I’ve visited so far. It felt like a completely different experience, though I can’t quite explain why.
+Oh and I finally ran a marathon. I've been saying I wanted to do that before I turn 40 and well... I actually did it. The funny thing is it wasn't really about the goal anymore once I started training.
 
-# Checking off a big goal
+Earlier this year I had a health checkup and my heart wasn't looking great. That scared the hell out of me if I'm being honest. So I started running in March, just using some coaching app and doing short runs. Slowly worked my way up - 10Ks, half marathons, then the full thing.
 
-I’ve always wanted to run a marathon before I turned 40, and this year, I did it. But it wasn’t just about hitting that goal. After a health check showed my heart wasn’t in great shape, I was scared and knew I needed to do something about it.
+It wasn't just about finishing though. It was about proving to myself that I could stick with something when it got hard. Plus running became this weird therapy thing for me. Helped with stress and anxiety and all that.
 
-I started with short runs in March using a coaching app and slowly built up to running 10Ks, half marathons, and finally a full marathon. It wasn’t just about finishing; it was about proving to myself that I could stick with something and push through challenges. Running helped me clear my mind, deal with stress, and anxiety.
+On the tech side, I spent a lot of time learning Go this year. Even shipped some apps with it which felt pretty good. Made me think about moving away from JavaScript for some projects and trying different approaches to solving problems.
 
-# Trying new tech and looking ahead
+Also got deeper into Terraform and AWS. Managing infrastructure used to intimidate me but now it's kind of fun in a weird way.
 
-This year, I spent more time learning new technologies. I worked with Go and even launched apps with it, which made me think about moving away from JavaScript and trying different ways to solve problems. I also got better with Terraform and AWS, using them to manage complex systems.
+But the real game changer has been AI stuff. It's not just hype anymore, it's actually changing how I work day to day. I want to keep learning about these tools and figure out how to use them to make coding more creative and less tedious. Could be huge for me and my family down the road.
 
-What’s really exciting is how AI is changing programming. It’s not just a buzzword anymore—it’s actually changing how we work. I want to keep learning about these tools and use them to make coding easier and more creative. I’m excited to see how this can help me and my family in the future.
+Next year feels like it's going to bring some big changes. I'm not exactly sure what yet but I have this feeling things are going to shift in a good way.
 
-# Looking forward
+Anyway, I'm grateful for this year. To my family and friends who put up with all my random decisions and stress - thank you. Seriously.
 
-Next year feels like it’s going to bring some big changes for me and my family. I’m not sure what’s coming, but I’m hopeful it will lead to something better.
-
-# Feeling thankful
-
-As I finish this year, I feel grateful. To my family, and friends thank you for your support. It means a lot.
-
-I’m ready to start the new year with hope and excitement for what’s ahead.
+2025, here we come. Ready for whatever you throw at me.
